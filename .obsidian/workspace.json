@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8a39548b3124f2ba",
+        "id": "1781edb524176700",
         "type": "tabs",
         "children": [
           {
-            "id": "c055db9e62ad9027",
+            "id": "e683ff573048b6ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Logo 제작/AI logo 제작.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db0820005c6f1d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Logo 제작/끌림 완성(80%).md",
+                "file": "아이디어 노트/TTS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Logo 제작/끌림 완성(80%).md",
+                "file": "아이디어 노트/TTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Logo 제작/끌림 완성(80%).md",
+                "file": "아이디어 노트/TTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Logo 제작/끌림 완성(80%).md"
+                "file": "아이디어 노트/TTS.md"
               }
             }
           },
@@ -155,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 1170.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,12 +154,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "db0820005c6f1d4b",
+  "active": "e683ff573048b6ae",
   "lastOpenFiles": [
+    "아이디어 노트/TTS.md",
+    "아이디어 노트",
+    "AI Logo 제작/끌림 완성(80%).md",
     "AI Logo 제작/Image/DALL·E 2024-04-29 16.11.35 - Create a minimalist logo for the word 'GGLim', using simple stylization to suggest the themes of books and trees. The letters should be minimally deta.webp",
     "AI Logo 제작/Image/DALL·E 2024-04-29 17.08.10 - Create an ultra-minimalist logo using the text 'G,G,L,i,m'. The design incorporates the imagery of books and trees, with the letters shaped from these.webp",
     "AI Logo 제작/AI logo 제작.md",
-    "AI Logo 제작/끌림 완성(80%).md",
     "AI Logo 제작/한양대학교 로고 학습 후 프롬프트.md",
     "AI Logo 제작/1차 완성 로고.md",
     "AI Logo 제작/Image/DALL·E 2024-04-26 20.08.12 - Create a more creative and visually striking logo for 'GGL', integrating the themes of a forest and a book. The design should be imaginative and artis.webp",
