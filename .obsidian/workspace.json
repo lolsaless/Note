@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어 노트/TTS.md",
+                "file": "AI Logo 제작/AI logo 제작.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e17f76b2dd629323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그램 개발/검량선 작성 툴.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어 노트/TTS.md",
+                "file": "프로그램 개발/검량선 작성 툴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어 노트/TTS.md",
+                "file": "프로그램 개발/검량선 작성 툴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어 노트/TTS.md"
+                "file": "프로그램 개발/검량선 작성 툴.md"
               }
             }
           },
@@ -142,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1170.5
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,16 +167,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e683ff573048b6ae",
+  "active": "e17f76b2dd629323",
   "lastOpenFiles": [
+    "AI Logo 제작/AI logo 제작.md",
+    "프로그램 개발/검량선 작성 툴.md",
+    "프로그램 개발",
+    "AI Logo 제작/한양대학교 로고 학습 후 프롬프트.md",
+    "AI Logo 제작/끌림 완성(80%).md",
+    "AI Logo 제작/1차 완성 로고.md",
     "아이디어 노트/TTS.md",
     "아이디어 노트",
-    "AI Logo 제작/끌림 완성(80%).md",
     "AI Logo 제작/Image/DALL·E 2024-04-29 16.11.35 - Create a minimalist logo for the word 'GGLim', using simple stylization to suggest the themes of books and trees. The letters should be minimally deta.webp",
     "AI Logo 제작/Image/DALL·E 2024-04-29 17.08.10 - Create an ultra-minimalist logo using the text 'G,G,L,i,m'. The design incorporates the imagery of books and trees, with the letters shaped from these.webp",
-    "AI Logo 제작/AI logo 제작.md",
-    "AI Logo 제작/한양대학교 로고 학습 후 프롬프트.md",
-    "AI Logo 제작/1차 완성 로고.md",
     "AI Logo 제작/Image/DALL·E 2024-04-26 20.08.12 - Create a more creative and visually striking logo for 'GGL', integrating the themes of a forest and a book. The design should be imaginative and artis.webp",
     "AI Logo 제작/Image/DALL·E 2024-04-26 20.08.16 - Design a clean, professional logo featuring the initials 'GGL'. The logo should emphasize a fusion of a forest and a book theme, using a minimalist st.webp",
     "AI Logo 제작/Image",
