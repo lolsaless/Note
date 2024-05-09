@@ -146,20 +146,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "e326348a0f9dc49f",
   "lastOpenFiles": [
+    "프로그램 개발/검량선 작성 툴.md",
     "아이디어 노트/관심종목.md",
     "AI Logo 제작/Image/스크린샷 2024-04-28 오전 10.06.03.png",
     "아이디어 노트/TTS.md",
-    "프로그램 개발/검량선 작성 툴.md",
     "AI Logo 제작/AI logo 제작.md",
     "프로그램 개발",
     "AI Logo 제작/한양대학교 로고 학습 후 프롬프트.md",
