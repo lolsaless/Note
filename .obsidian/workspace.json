@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "904908812ef4fc76",
+        "id": "e0391d3df507beb2",
         "type": "tabs",
         "children": [
           {
-            "id": "ce88744b9754c771",
+            "id": "5c6d2b9effa5f1de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d736b57f79207d18",
@@ -155,7 +154,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ce88744b9754c771",
+  "active": "5c6d2b9effa5f1de",
   "lastOpenFiles": [
     "글쓰기.md",
     "무제 파일 1.md",
