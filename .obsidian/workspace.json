@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e14d5f53763591d1",
+        "id": "e75817a81dc22512",
         "type": "tabs",
         "children": [
           {
-            "id": "a64c376410f95e30",
+            "id": "87b4cbfcde7d2110",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c0a7e1fedbbf0af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "팔란티어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IONQ/아이온큐.md",
+                "file": "팔란티어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IONQ/아이온큐.md",
+                "file": "팔란티어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IONQ/아이온큐.md"
+                "file": "팔란티어.md"
               }
             }
           },
@@ -154,10 +167,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d320fb04773aaa44",
+  "active": "5c0a7e1fedbbf0af",
   "lastOpenFiles": [
-    "2024년 6월 13일.md",
     "IONQ/아이온큐.md",
+    "팔란티어.md",
+    "순대국/순대국.md",
+    "순대국",
+    "2024년 6월 13일.md",
     "PLTR",
     "IONQ",
     "무제 파일 1.md",
