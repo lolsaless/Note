@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87b4cbfcde7d2110",
+            "id": "30da08205a7c6299",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "책/돈, 뜨겁게 사랑하고 차갑게 다루어라/성공 전략은 '남들과 반대로' 하는 것.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 264.5
   },
   "right": {
     "id": "d736b57f79207d18",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "책/돈, 뜨겁게 사랑하고 차갑게 다루어라/성공 전략은 '남들과 반대로' 하는 것.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "책/돈, 뜨겁게 사랑하고 차갑게 다루어라/성공 전략은 '남들과 반대로' 하는 것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "책/돈, 뜨겁게 사랑하고 차갑게 다루어라/성공 전략은 '남들과 반대로' 하는 것.md"
+              }
             }
           },
           {
@@ -146,8 +154,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d320fb04773aaa44",
+  "active": "30da08205a7c6299",
   "lastOpenFiles": [
+    "책/돈, 뜨겁게 사랑하고 차갑게 다루어라",
+    "2024/Welcome.md",
+    "책/돈, 뜨겁게 사랑하고 차갑게 다루어라/성공 전략은 '남들과 반대로' 하는 것.md",
+    "책",
     "팔란티어.md",
     "IONQ/아이온큐.md",
     "순대국/순대국.md",
