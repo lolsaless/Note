@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bab3932b2902a034",
+        "id": "da4a1dcfd983ff53",
         "type": "tabs",
         "children": [
           {
-            "id": "71b8fff7f9edd341",
+            "id": "11a67e3aca09b507",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,13 +154,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d320fb04773aaa44",
+  "active": "11a67e3aca09b507",
   "lastOpenFiles": [
     "책/돈의 속성/빨리 부자가 되려면, 빨리 부자가 되려 하면 안된다..md",
     "책/돈, 뜨겁게 사랑하고 차갑게 다루어라/성공 전략은 '남들과 반대로' 하는 것.md",
+    "2024/Welcome.md",
     "책/돈의 속성",
     "책/돈, 뜨겁게 사랑하고 차갑게 다루어라",
-    "2024/Welcome.md",
     "책",
     "팔란티어.md",
     "IONQ/아이온큐.md",
