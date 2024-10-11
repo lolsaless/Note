@@ -2,7 +2,10 @@
   "accentColor": "",
   "theme": "system",
   "cssTheme": "Minimal",
-  "baseFontSize": 14,
+  "baseFontSize": 15,
   "interfaceFontFamily": "Noto Sans KR",
-  "textFontFamily": "Nanum Gothic"
+  "textFontFamily": "Nanum Gothic",
+  "enabledCssSnippets": [
+    "Option"
+  ]
 }

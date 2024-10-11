@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "da4a1dcfd983ff53",
+        "id": "2e778903639108b9",
         "type": "tabs",
         "children": [
           {
-            "id": "11a67e3aca09b507",
+            "id": "847185d195351145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "책/돈의 속성/빨리 부자가 되려면, 빨리 부자가 되려 하면 안된다..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4091fdbe7e0a3294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "책/돈의 속성/빨리 부자가 되려면, 빨리 부자가 되려 하면 안된다..md",
+                "file": "옵시디언 사용법/Markdown 문법.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "놓고",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "책/돈의 속성/빨리 부자가 되려면, 빨리 부자가 되려 하면 안된다..md",
+                "file": "옵시디언 사용법/Markdown 문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -115,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "책/돈의 속성/빨리 부자가 되려면, 빨리 부자가 되려 하면 안된다..md",
+                "file": "옵시디언 사용법/Markdown 문법.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "책/돈의 속성/빨리 부자가 되려면, 빨리 부자가 되려 하면 안된다..md"
+                "file": "옵시디언 사용법/Markdown 문법.md"
               }
             }
           },
@@ -150,11 +137,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 777.5,
+    "width": 896.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,22 +155,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4091fdbe7e0a3294",
+  "active": "d320fb04773aaa44",
   "lastOpenFiles": [
-    "책/돈의 속성/100억을 상속 받았는데 절대 잃지 말라는 유언이 붙었다면.md",
-    "책/돈, 뜨겁게 사랑하고 차갑게 다루어라/성공 전략은 '남들과 반대로' 하는 것.md",
-    "책/돈의 속성/빨리 부자가 되려면, 빨리 부자가 되려 하면 안된다..md",
+    "옵시디언 사용법/옵시디언 CSS 설정.md",
+    "옵시디언 사용법/옵시디언 노트 연결 연습.md",
+    "옵시디언 사용법/Markdown 문법.md",
+    "옵시디언 사용법",
+    "05.템플릿/제텔카스텐 템플릿.md",
+    "독서노트/돈, 뜨겁게 사랑하고 차갑게 다루어라/성공 전략은 '남들과 반대로' 하는 것.md",
+    "05.템플릿",
+    "04.첨부메모",
+    "03.영구메모",
+    "02.문헌메모",
+    "01.임시메모",
+    "독서노트/돈의 속성/빨리 부자가 되려면, 빨리 부자가 되려 하면 안된다..md",
+    "독서노트/돈의 속성/남의 돈을 대하는 태도가 내 돈을 대하는 태도다..md",
+    "독서노트/돈의 속성/100억을 상속 받았는데 절대 잃지 말라는 유언이 붙었다면.md",
     "2024/Welcome.md",
-    "책/돈의 속성",
-    "책/돈, 뜨겁게 사랑하고 차갑게 다루어라",
-    "책",
+    "독서노트/돈의 속성",
+    "독서노트/돈, 뜨겁게 사랑하고 차갑게 다루어라",
+    "독서노트",
     "팔란티어.md",
     "IONQ/아이온큐.md",
     "순대국/순대국.md",
     "순대국",
     "2024년 6월 13일.md",
-    "PLTR",
-    "IONQ",
     "무제 파일 1.md",
     "세번째 노트.md",
     "아이디어 노트/관심종목.md",
@@ -203,10 +200,6 @@
     "두번째 노트.md",
     "프로그램 개발/검량선 작성 툴.md",
     "아이디어 노트/TTS.md",
-    "프로그램 개발",
-    "아이디어 노트",
-    "AI Logo 제작/Image",
-    "AI Logo 제작",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
